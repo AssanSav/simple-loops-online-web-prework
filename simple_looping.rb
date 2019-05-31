@@ -18,8 +18,9 @@ end
 def while_iterator(int)
   int = 0 
   while int < 7
+  int += 1
   puts "Welcome to Flatiron School's Web Development Course!"
-  
+ end 
 end
 
 def until_iterator(number_of_times)
