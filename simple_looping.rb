@@ -24,9 +24,9 @@ def while_iterator(int)
 end
 
 def until_iterator(int)
-  until int == 7
+  until counter == 7
   puts "Welcome to Flatiron School's Web Development Course!"
-int += 1
+counter += 1
 end
 end
 
