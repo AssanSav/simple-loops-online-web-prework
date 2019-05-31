@@ -2,7 +2,7 @@
 
 def loop_iterator(int)
   int = 0 
-  loop int < 7 do 
+  loop  do 
     int += 1 
   puts "Welcome to Flatiron School's Web Development Course!"
   break if int == 7
